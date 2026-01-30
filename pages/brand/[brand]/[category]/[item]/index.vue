@@ -50,7 +50,7 @@
     <div v-else class="text-center py-24 text-white/40">
       <p class="text-xl">Nenhum erro carregado ainda</p>
       <p class="text-sm mt-2">
-        Sem backend: usamos mock (se existir). Quando conectar a API, essa tela
+        Sem backend: . Quando conectar a API, essa tela
         preenche automaticamente.
       </p>
     </div>
