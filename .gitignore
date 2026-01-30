@@ -1,0 +1,17 @@
+# Nuxt dev/build outputs
+.nuxt
+.output
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Local env
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log

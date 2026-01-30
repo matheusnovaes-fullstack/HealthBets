@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "origin": "PIX",
+    "message": "Timeout na confirmação do depósito",
+    "timestamp": "2026-01-29T18:00:00Z",
+    "source": "payments-service"
+  },
+  {
+    "id": 2,
+    "origin": "Banco API",
+    "message": "Retorno inválido ao consultar status",
+    "timestamp": "2026-01-29T18:10:00Z",
+    "source": "bank-gateway"
+  }
+]
